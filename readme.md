@@ -16,3 +16,5 @@ This repository showcases the workflow and insights from analyzing an Amazon Sal
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height=70>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=70>
 <img src="power-bi-icon.svg" height=70>
+
+Dataset Link: https://www.kaggle.com/code/mehakiftikhar/amazon-sales-dataset-eda
